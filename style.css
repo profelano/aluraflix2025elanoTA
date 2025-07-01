@@ -1,4 +1,27 @@
-body{
-    background-color: lilás;
+body {
     color: white;
+    background-color: black;
+    font-family: "Chakra Petch", sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+header {
+    border: 2px solid rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+section{
+    background-color:rgb(184,156,213);
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
